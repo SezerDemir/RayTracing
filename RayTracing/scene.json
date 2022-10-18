@@ -1,0 +1,9 @@
+{
+  "Camera": {
+    "position": [ 2, 2, 1 ],
+    "resolution": [ 100, 100 ]
+  },
+  "Background": {
+    "color": [ 55, 122, 0 ]
+  }
+}
